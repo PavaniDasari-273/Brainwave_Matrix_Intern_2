@@ -58,7 +58,7 @@ I also built an **interactive Streamlit Web App** that allows users to input tra
 
 📸 **Screenshots**
 
- **Interactive UI:** ![image alt](https://github.com/PavaniDasari-273/Brainwave_Matrix_Intern_2/blob/74c64e18533fbeb5667fb4b65b15f82c88930bad/Screenshot%202025-10-07%20220813.png)
+ **Interactive UI:** ![image alt](https://github.com/PavaniDasari-273/Brainwave_Matrix_Intern_2/blob/74c64e18533fbeb5667fb4b65b15f82c88930bad/Screenshot%202025-10-07%20220813.png)(https://github.com/PavaniDasari-273/Brainwave_Matrix_Intern_2/blob/509b57193bfc05f965902530c5496947db96991d/Screenshot%202025-10-07%20222734.png)
  Clean and intuitive interface built with Streamlit. Users can enter transaction details and click “Check Transaction” to get instant results.
  **Fraudulent Transaction:**  ![image alt]()
   Suspicious transactions are flagged in red for immediate attention.
