@@ -58,10 +58,14 @@ I also built an **interactive Streamlit Web App** that allows users to input tra
 
 📸 **Screenshots**
 
-* **Interactive UI:** Clean and intuitive interface built with Streamlit. Users can enter transaction details and click “Check Transaction” to get instant results.
-* **Fraudulent Transaction:** Suspicious transactions are flagged in red for immediate attention.
-* **Legitimate Transaction:** Safe transactions are shown in green, giving users confidence.
-* **Input Validation:** Alerts users when transaction details are missing or invalid.
+ **Interactive UI:** ![image alt]()
+ Clean and intuitive interface built with Streamlit. Users can enter transaction details and click “Check Transaction” to get instant results.
+ **Fraudulent Transaction:**  ![image alt]()
+  Suspicious transactions are flagged in red for immediate attention.
+ **Legitimate Transaction:** ![image alt]()
+  Safe transactions are shown in green, giving users confidence.
+ **Input Validation:** ![image alt]()
+   Alerts users when transaction details are missing or invalid.
 
 🔮 **Future Enhancements**
 
