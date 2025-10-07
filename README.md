@@ -75,4 +75,4 @@ Special thanks to **Brainwave _Matrix_Solution** for providing this project oppo
 📌 **Author**
 👩‍💻 Pavani Dasari
 
-📫 **Connect with me:** [LinkedIn](#) | [GitHub](#)
+📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/pavani-dasari-691bb5321) | [GitHub](https://github.com/PavaniDasari-273)
